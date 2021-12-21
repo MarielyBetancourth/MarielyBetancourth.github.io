@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.card-img-bottom{
+	width: 90%;
+	height: 50%;
+}
+
+.pagination{
+	position: absolute;
+	right: 120px;
+}
+.parrafos{
+	font-size: 15px;
+}
